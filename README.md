@@ -1,6 +1,6 @@
 ### Hi there 👋
 🔭 My name is Poshnun Oupjan and currently studying in bachelor of Science Information Technology and Digital Innovation. You can find me on 
-[![](https://github.com/Madcattk/Madcattk/blob/main/image/instagram.png)](https://www.instagram.com/madcattk/)
+[![Instagram](https://github.com/Madcattk/Madcattk/blob/main/image/instagram.png)](https://www.instagram.com/madcattk/)
 <!--
 **Madcattk/Madcattk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
