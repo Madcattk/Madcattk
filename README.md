@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+🔭 I’m currently studying in bachelor of Science Information Technology and Digital Innovation.
 <!--
 **Madcattk/Madcattk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
