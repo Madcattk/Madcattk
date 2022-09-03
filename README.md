@@ -1,6 +1,6 @@
 ### Hi there 👋
 🔭 My name is Poshnun Oupjan and currently studying in bachelor of Science Information Technology and Digital Innovation. You can find me on 
-![alt text](https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.png)"Instagram Image")
+![alt text](https://github.com/Madcattk/Madcattk/blob/main/image/instagram.png)
 <!--
 **Madcattk/Madcattk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
