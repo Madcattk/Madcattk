@@ -3,10 +3,9 @@
 
 
 
-### Get in touch
-[Personal site](https://my-portfolio-83e74.web.app/)
+### 	:coffee: Get in touch
+:point_right: @ me on [Instagram](https://www.instagram.com/madcattk/) about any of the following!
 
-[Instagram](https://www.instagram.com/madcattk/)
 <!--
 **Madcattk/Madcattk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
