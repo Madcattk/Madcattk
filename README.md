@@ -1,8 +1,8 @@
 ### Hi there 👋
-🔭 I’m currently studying in bachelor of Science Information Technology and Digital Innovation.
+🔭 My name is Poshnun Oupjan and currently studying in bachelor of Science Information Technology and Digital Innovation. You can find me on 
 <!--
 **Madcattk/Madcattk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
