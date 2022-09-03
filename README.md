@@ -1,10 +1,8 @@
 # Hi there 👋
----
 🔭 My name is Poshnun Oupjan and currently studying in bachelor of Science Information Technology and Digital Innovation.
 
 
 ### Get in touch
----
 [Personal site](https://my-portfolio-83e74.web.app/)
 [Instagram](https://my-portfolio-83e74.web.app/)
 <!--
