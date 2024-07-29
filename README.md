@@ -1,5 +1,5 @@
-# Hi there 👋
-🔭 My name is Poshnun Oupjan and currently studying in Bachelor of Science Information Technology and Digital Innovation.
+# Hello 👋
+🔭 My name is Poshnun Oupjan, I gratuated with a Bachelor of Science Information Technology and Digital Innovation.
 
 
 
